@@ -1,0 +1,13 @@
+{
+    "name": "isfonzar/prometheus_client",
+    "description": "Prometheus instrumentation library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "isfonzar",
+            "email": "icaro.isf@gmail.com"
+        }
+    ],
+    "require": {}
+}
